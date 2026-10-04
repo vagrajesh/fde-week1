@@ -1,0 +1,10 @@
+employees = [{"id": 1, "name": "John Doe", "position": "Manager"},
+             {"id": 2, "name": "Jane Smith", "position": "Developer"},
+             {"id": 3, "name": "Alice Johnson", "position": "Designer"},
+             {"id": 4, "name": "Bob Brown", "position": "Tester"},  
+             {"id": 5, "name": "Charlie Davis", "position": "Intern"},
+            {"id": 6, "name": "Eve White", "position": "Consultant"},
+            {"id": 7, "name": "Frank Black", "position": "Analyst"},
+            {"id": 8, "name": "Grace Green", "position": "HR"},
+            {"id": 9, "name": "Hank Blue", "position": "Marketing"},
+            {"id": 10, "name": "Ivy Red", "position": "Sales"}]
