@@ -1,0 +1,6 @@
+metric,value
+rows,50000
+vendors,13
+valid_invoices,47590
+skipped_invoices,2410
+total_amount_excl_skipped,23773778147.21

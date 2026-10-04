@@ -1,0 +1,8 @@
+metric,value,pct
+missing_invoice_id,0,0.0
+missing_vendor,1560,3.12
+missing_amount,1424,2.85
+missing_status,519,1.04
+invalid_amount,986,1.97
+skip_rate,2410,4.82
+duplicate_invoice_ids,0,
